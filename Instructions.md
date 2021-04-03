@@ -119,10 +119,3 @@ You are required to submit the following for review:
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
-What to include in "Instructions":
-1. Description of app
-2. Screenshot of app
-3. Link to deployed app
-   
-To link an image:
-![Screen Shot Of The GitHub Link]("./../assets/images/screenshot.jpg)
